@@ -1,2 +1,14 @@
-# calculadora_fii
-Calculadora de Fundos Imobiliarios
+## PROBLEMA:
+* Para simular o custo de uma compra de Fundos Imobiliários, eu precisava procurar o valor atualizado da cota em sites financeiros e fazer a conta manualmente, por calculadora ou por excel. Isso é lento e repetitivo e muitas vezes eu deixava de lado.
+
+## SOLUÇÃO:
+* Desenvolvi um script em Python de execução sob demanda. Ao rodar o código, ele realiza o web scraping do site Fundamentus, seleciona os dados e atualiza instantaneamente no Google Sheets. Esse fluxo alimenta uma calculadora no Looker Studio, permitindo ao usuário simular o custo exato da compra de cotas de FIIs sem a necessidade de coletar os preços manualmente.
+
+## TECNOLOGIAS UTILIZADAS:
+* **Linguagem:** Python;
+* **Ambiente de Desenvolvimento:** Google Colab;
+* **Bibliotecas Principais:** 'requests', 'beautifulSoup`, 'pandas'
+* **Visualização:** Looker Studio( Google Data Studio) e Google Sheets.
+
+ ## Links do Projeto
+* [Acesse a Calculadora no Looker Studio aqui](https://datastudio.google.com/reporting/f53700f2-51d1-46fe-9c8b-6e6f02bdc66b)
