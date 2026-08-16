@@ -9,5 +9,5 @@
 * Google Colab;
 * ooker Studio( Google Data Studio) e Google Sheets.
 
- ## Links do Projeto
-* [Acesse a Calculadora no Looker Studio aqui](https://datastudio.google.com/reporting/f53700f2-51d1-46fe-9c8b-6e6f02bdc66b)
+ ## Dashboard
+* [Calculadora FII ](https://datastudio.google.com/reporting/f53700f2-51d1-46fe-9c8b-6e6f02bdc66b)
